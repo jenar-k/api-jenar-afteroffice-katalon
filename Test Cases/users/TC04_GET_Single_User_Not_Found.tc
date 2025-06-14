@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_GET_Single_User_Not_Found</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8d2da18-b8f4-46b3-ba26-192e907e568e</testCaseGuid>
+</TestCaseEntity>
