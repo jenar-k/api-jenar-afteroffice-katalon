@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_DELETE_Single_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42a8eb17-b4a8-469d-adf3-ae7c03b88bb3</testCaseGuid>
+</TestCaseEntity>
