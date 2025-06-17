@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC02_POST_Login_Successful</name>
+   <name>TC03_POST_Login_Unsuccessful_because_missing_email</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>04456747-6aa9-4b42-b7dc-2a24668411e8</testCaseGuid>
+   <testCaseGuid>87676b62-a646-4c75-aa7c-9f8095ddab60</testCaseGuid>
 </TestCaseEntity>

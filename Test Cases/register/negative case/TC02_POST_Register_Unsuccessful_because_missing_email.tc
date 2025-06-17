@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC02_POST_Register_Successful</name>
+   <name>TC02_POST_Register_Unsuccessful_because_missing_email</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fcfd40a6-4a70-45e2-9cbc-e082afc9f981</testCaseGuid>
+   <testCaseGuid>ca7848af-f22b-4d8f-808f-12e60d791372</testCaseGuid>
 </TestCaseEntity>

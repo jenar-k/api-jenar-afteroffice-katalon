@@ -15,7 +15,7 @@
       <guid>943d2d2d-ecf4-4a9c-8e26-2f534bac07ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/register/TC02_POST_Register_Successful</testCaseId>
+      <testCaseId>Test Cases/register/positive case/TC03_POST_Register_Successful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -12,17 +12,31 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>8beecfe1-6b67-4bc1-9733-14938f59403e</testSuiteGuid>
    <testCaseLink>
-      <guid>28623b88-44a1-4cbe-884f-b1978f9e9088</guid>
+      <guid>bc5f122c-6277-4d9e-853b-e3bba40a9da1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/login/TC01_POST_Login_Unsuccessful</testCaseId>
+      <testCaseId>Test Cases/login/negative case/TC01_POST_Login_Unsuccessful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c8d036d5-1d5b-4fe2-ae62-9d46a5b1368a</guid>
+      <guid>ae95bf66-072e-40b5-8bb1-98517cd9b836</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/login/TC02_POST_Login_Successful</testCaseId>
+      <testCaseId>Test Cases/login/negative case/TC02_POST_Login_Unsuccessful_because_credential_invalid</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8a43b2c3-05d2-4407-8b0e-2c7a1d9e8481</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/login/negative case/TC03_POST_Login_Unsuccessful_because_missing_email</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7fb0ba2f-24d0-4f30-b5f6-2fd83cfa7074</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/login/positive case/TC04_POST_Login_Successful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
